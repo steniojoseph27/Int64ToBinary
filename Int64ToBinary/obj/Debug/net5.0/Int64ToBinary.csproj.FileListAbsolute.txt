@@ -1,0 +1,5 @@
+C:\Users\steni\source\repos\Int64ToBinary\Int64ToBinary\obj\Debug\net5.0\Int64ToBinary.csproj.AssemblyReference.cache
+C:\Users\steni\source\repos\Int64ToBinary\Int64ToBinary\obj\Debug\net5.0\Int64ToBinary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steni\source\repos\Int64ToBinary\Int64ToBinary\obj\Debug\net5.0\Int64ToBinary.AssemblyInfoInputs.cache
+C:\Users\steni\source\repos\Int64ToBinary\Int64ToBinary\obj\Debug\net5.0\Int64ToBinary.AssemblyInfo.cs
+C:\Users\steni\source\repos\Int64ToBinary\Int64ToBinary\obj\Debug\net5.0\Int64ToBinary.csproj.CoreCompileInputs.cache

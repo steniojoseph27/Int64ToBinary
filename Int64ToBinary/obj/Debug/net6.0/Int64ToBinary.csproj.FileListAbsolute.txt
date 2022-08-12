@@ -1,0 +1,15 @@
+C:\Users\steni\source\repos\Int64ToBinary\Int64ToBinary\bin\Debug\net6.0\Int64ToBinary.exe
+C:\Users\steni\source\repos\Int64ToBinary\Int64ToBinary\bin\Debug\net6.0\Int64ToBinary.deps.json
+C:\Users\steni\source\repos\Int64ToBinary\Int64ToBinary\bin\Debug\net6.0\Int64ToBinary.runtimeconfig.json
+C:\Users\steni\source\repos\Int64ToBinary\Int64ToBinary\bin\Debug\net6.0\Int64ToBinary.dll
+C:\Users\steni\source\repos\Int64ToBinary\Int64ToBinary\bin\Debug\net6.0\Int64ToBinary.pdb
+C:\Users\steni\source\repos\Int64ToBinary\Int64ToBinary\obj\Debug\net6.0\Int64ToBinary.csproj.AssemblyReference.cache
+C:\Users\steni\source\repos\Int64ToBinary\Int64ToBinary\obj\Debug\net6.0\Int64ToBinary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steni\source\repos\Int64ToBinary\Int64ToBinary\obj\Debug\net6.0\Int64ToBinary.AssemblyInfoInputs.cache
+C:\Users\steni\source\repos\Int64ToBinary\Int64ToBinary\obj\Debug\net6.0\Int64ToBinary.AssemblyInfo.cs
+C:\Users\steni\source\repos\Int64ToBinary\Int64ToBinary\obj\Debug\net6.0\Int64ToBinary.csproj.CoreCompileInputs.cache
+C:\Users\steni\source\repos\Int64ToBinary\Int64ToBinary\obj\Debug\net6.0\Int64ToBinary.dll
+C:\Users\steni\source\repos\Int64ToBinary\Int64ToBinary\obj\Debug\net6.0\refint\Int64ToBinary.dll
+C:\Users\steni\source\repos\Int64ToBinary\Int64ToBinary\obj\Debug\net6.0\Int64ToBinary.pdb
+C:\Users\steni\source\repos\Int64ToBinary\Int64ToBinary\obj\Debug\net6.0\Int64ToBinary.genruntimeconfig.cache
+C:\Users\steni\source\repos\Int64ToBinary\Int64ToBinary\obj\Debug\net6.0\ref\Int64ToBinary.dll
